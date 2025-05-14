@@ -1,0 +1,37 @@
+
+# DonDS Whitepaper
+
+## Introduction
+DonDS is a meme coin based on humor, power, and decentralized community spirit. Created for entertainment, it carries no promises and no utility — just vibes.
+
+## Tokenomics
+- Token Standard: ERC-20
+- Total Supply: 420,000,000,000 DonDS
+- Locked Supply: 141,000,000,000 DonDS (33.57%)
+- Initial Holder: Creator holds the remaining supply
+- Token Contract: [To be published]
+- No tax, no presale, no utility
+
+## Purpose
+DonDS is created for fun and community-driven memes in the crypto world. It is not a financial product and should not be treated as one.
+
+## Token Security & Transparency
+To demonstrate full transparency and commitment to community trust, **33.57% of the total DonDS token supply (141 billion tokens)** has been **permanently locked** using the **UNCX Network liquidity locker**.
+
+These tokens have been locked **for security reasons**, ensuring:
+- No rug pull is possible
+- A transparent and fair launch
+- Long-term trust in the project
+
+Inspired by the transparency of meme coins like **$PEPE**, DonDS follows a similar philosophy:  
+**No promises, no central control — just pure, decentralized fun.**
+
+## Community
+DonDS encourages participation, memes, and self-expression. Everyone is free to build and contribute.
+
+## Disclaimer
+DonDS is for entertainment only. It has no intrinsic value or expectation of financial return. Always DYOR (Do Your Own Research).
+
+## Contact
+Twitter: https://x.com/DonDS_coin  
+Email: dusste89@gmail.com
